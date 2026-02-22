@@ -122,23 +122,6 @@ Keep retrying until it works. If you've been retrying for a while and it's still
 </details>
 
 <details>
-<summary>Why is an error like this popping up when I start the game? What's Denuvo Anti-Tamper? ![](images/denuvo.png)</summary>
-
-If you're seeing this error when launching a game, forget about playing that game for free. It means that the game has Denuvo Anti-Tamper, which doesn't have any public (universal) bypasses.
-
-<details>
-<summary>What's Denuvo Anti-Tamper?</summary>
-
-Denuvo Anti-Tamper is a digital anti-piracy technology used in PC video games.
-
-It's designed to make it much harder and slower for pirates/crackers like us to crack or reverse-engineer a game's executable file.
-
-It works by encrypting and obfuscating parts of the game's code, acting as a protective layer around the game's existing Digital Rights Management (DRM) system (like Steam's or Origin's).
-</details>
-
-</details>
-
-<details>
 <summary>How do I stop Windows Defender from deleting my bypass/fix files?</summary>
 
 If you use any other antiviruses - uninstall them. Windows Defender is enough. Any other free antiviruses are just useless bloatware.
