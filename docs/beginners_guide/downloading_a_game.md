@@ -40,7 +40,7 @@ Can't see it? Make sure to check the Hidden icons menu too:
 
 </details>
 
-After that, drag the lua file you've downloaded onto the floating Steam icon.
+After that, drag the lua file you've downloaded onto the floating Steam icon. Then, restart Steam through SteamTools by right clicking the floating Steam icon and selecting **Restart Steam**.
 
 ### Congrats!
 If you've followed all of the steps correctly, you should now have the game in your Steam Library, available to download for free.
