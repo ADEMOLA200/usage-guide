@@ -120,7 +120,7 @@ irm -useb cdn.openlua.cloud/fix-st.ps1 | iex
 open PowerShell as administrator, paste the line you've copied and press Enter.
 
 <details>
-<summary>Manual steps</summary>
+<summary>Manual steps (for the paranoid people who don't trust anything)</summary>
 
 1. Exit Steam and SteamTools completely
 2. Open your Steam installation directory and delete these two files: `xinput1_4.dll`, `dwmapi.dll`
