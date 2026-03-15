@@ -119,6 +119,10 @@ irm -useb cdn.openlua.cloud/fix-st.ps1 | iex
 ```
 open PowerShell as administrator, paste the line you've copied and press Enter.
 
+:::note
+If you get a red error right after pressing Enter, use a VPN. We recommend [Surfshark](https://surfshark.club/friend/2m7WDRXV).
+:::
+
 </details>
 
 <details>
