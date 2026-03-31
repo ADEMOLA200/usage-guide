@@ -7,7 +7,7 @@ description: ""
 This page explains the process of installing SteamTools. It does the magic to make the game(s) appear in your library.
 
 # Windows
-[Download the installer](https://cdn.openlua.cloud/st-setup-latest.exe), run it, and click Next -> Install -> Finish.
+[Download the installer](https://dl.steamtools.info/st-setup-latest.exe), run it, and click Next -> Install -> Finish.
 
 # Linux
 :::warning
@@ -23,7 +23,7 @@ The PortProton window may dissapear entirely for a minute, just give it a moment
 4. Once the "Choices" window pops up, just click CREATE SHORTCUT
 5. On the second popup, click LAUNCH. Wait until the Steam login window pops up
 6. Login with your Steam account
-7. [Download the SteamTools installer](https://cdn.openlua.cloud/st-setup-latest.exe)
+7. [Download the SteamTools installer](https://dl.steamtools.info/st-setup-latest.exe)
 8. Right-click the installer, click Open With.. and select PortProton
 9. In the popup, select LAUNCH
 10. Go through all of the installation steps (just click Next you don't have to change anything)
